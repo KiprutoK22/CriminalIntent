@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ContentProvider</string>
+    <string name="response">Response: \n</string>
+    <string name="list_all_words">list_all_words</string>
+    <string name="list_first_word">list_first_word</string>
+
+    <string-array name="words">
+        <item>Android</item>
+        <item>Activity</item>
+        <item>ContentProvider</item>
+        <item>ContentResolver</item>
+    </string-array>
+</resources>
